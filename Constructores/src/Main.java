@@ -7,7 +7,8 @@ public class Main {
 
         persona.mostrarinfo();
 
-
+        OperacionesAritmeticas opa = new OperacionesAritmeticas(5,5);
+        opa.MostrarResultados();
 
     }
 }
